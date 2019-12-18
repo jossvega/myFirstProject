@@ -27,7 +27,7 @@ public class practicalgoritmos {
 
     public static void ejercicio2() {
 
-        int numero = 89;
+        int numero = 46;
         if (numero > 0) {
             if (numero % 2 == 0) {
                 System.out.println("El numero introducido es PAR");
@@ -41,7 +41,7 @@ public class practicalgoritmos {
     }
 
     public static void ejercicioEdades() {
-        int edad = 15;
+        int edad = 25;
 
         if (edad <= 12) {
             System.out.println("Eres niño");
